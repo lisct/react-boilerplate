@@ -1,7 +1,7 @@
 # React Boilerplate Application
 
 
-### Repository
+## Repository
 
 1. Install dependencies
 
@@ -33,7 +33,7 @@ Running local
 http://localhost:8080
 ```
 
-### Production
+## Production
 
 Run Build (Compile Public folder)
 
