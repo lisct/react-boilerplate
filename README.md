@@ -44,11 +44,14 @@ yarn run build:prod or npm run build:prod
 ## Packages
 
 * "babel-cli": "6.24.1",
-* "babel-core": "6.25.0",
-* "babel-loader": "7.1.1",
+* "babel-core": "^6.26.0",
+* "babel-loader": "^7.1.4",
 * "babel-plugin-transform-class-properties": "6.24.1",
+* "babel-polyfill": "^6.26.0",
 * "babel-preset-env": "1.5.2",
+* "babel-preset-es2015": "^6.24.1",
 * "babel-preset-react": "6.24.1",
+*" babel-preset-stage-0": "^6.24.1",
 * "css-loader": "0.28.4",
 * "extract-text-webpack-plugin": "3.0.0",
 * "file-loader": "^1.1.11",
