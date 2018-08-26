@@ -5,16 +5,15 @@ import BoilerplatePage from '../components/BoilerplatePage';
 import NotFoundPage from '../components/NotFoundPage';
 
 const AppRouter = () => (
-    
+
     <BrowserRouter>
         <div>
             <Switch>
-                <Route path="/" component={BoilerplatePage} exact={true}/>
+                <Route path="/" component={BoilerplatePage} exact />
                 <Route component={NotFoundPage} />
             </Switch>
         </div>
     </BrowserRouter>
 );
-
 
 export default AppRouter;

@@ -1,9 +1,12 @@
 {
   "name": "boilerplate-react",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
-  "author": "Lisbel Cruz",
+  "author": "Lisbel Cruz <lcruztaveras@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "10.0.0"
+  },
   "scripts": {
     "server": "live-server public",
     "build:dev": "webpack",
@@ -35,6 +38,11 @@
     "style-loader": "0.18.2",
     "url-loader": "^1.0.1",
     "webpack": "3.1.0",
-    "webpack-dev-server": "2.5.1"
+    "webpack-dev-server": "2.5.1",
+    "eslint": "4.9.0",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "6.0.1",
+    "eslint-plugin-react": "7.4.0"
   }
 }
