@@ -47,6 +47,7 @@ yarn run build:prod or npm run build:prod
     * v1.0.1 updating webpack to allows otf fonts. Aug 18, 2018
     * v1.0.2 updating react version 16.4.0. Aug 19, 2018
     * v1.0.3 setup and configure ESLint. Aug 26, 2018 
+    * v1.0.4 updating json packages. Feb 13, 2019 
 ```
 ##  Dependencies
 
@@ -73,8 +74,8 @@ yarn run build:prod or npm run build:prod
 * "sass-loader": "6.0.6",
 * "style-loader": "0.18.2",
 * "url-loader": "^1.0.1",
-* "webpack": "3.1.0",
-* "webpack-dev-server": "2.5.1",
+*  "webpack-cli": "^3.2.3",
+*   "webpack-dev-server": "2.9.1"
 * "eslint": "4.9.0",
 * "eslint-config-airbnb": "16.1.0",
 * "eslint-plugin-import": "2.7.0",
