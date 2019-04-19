@@ -74,8 +74,8 @@ yarn run build:prod or npm run build:prod
 * "sass-loader": "6.0.6",
 * "style-loader": "0.18.2",
 * "url-loader": "^1.0.1",
-*  "webpack-cli": "^3.2.3",
-*   "webpack-dev-server": "2.9.1"
+* "webpack-cli": "^3.2.3",
+* "webpack-dev-server": "2.9.1"
 * "eslint": "4.9.0",
 * "eslint-config-airbnb": "16.1.0",
 * "eslint-plugin-import": "2.7.0",
