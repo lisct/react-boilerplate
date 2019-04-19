@@ -2,8 +2,8 @@ import 'normalize.css/normalize.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './components/BoilerplatePage';
+import AppRouter from './routers/AppRouter';
 
 import './styles/styles.scss';
 
-ReactDOM.render(<Home />, document.getElementById('app'));
+ReactDOM.render(<AppRouter />, document.getElementById('app'));
