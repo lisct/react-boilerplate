@@ -48,6 +48,7 @@ yarn run build:prod or npm run build:prod
     * v1.0.2 updating react version 16.4.0. Aug 19, 2018
     * v1.0.3 setup and configure ESLint. Aug 26, 2018 
     * v1.0.4 updating json packages. Feb 13, 2019 
+    * v1.0.5 updating eslint to .json. May 23, 2019 
 ```
 ##  Dependencies
 
